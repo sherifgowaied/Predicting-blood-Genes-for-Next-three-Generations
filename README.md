@@ -1,2 +1,10 @@
-# Predicting-blood-Genes-for-Next-three-Generations
-Predicting blood Genes using Binary Tree Data Structure to  Simulate the inheritance of blood types for each member of a family The possible blood type combinations, then, are: OO, OA, OB, AO, AA, AB, BO, BA, and BB.
+Simulate the inheritance of blood types for each member of a family.
+
+$ ./inheritance
+Generation 0, blood type OO
+---    Generation 1, blood type AO
+----     Generation 2, blood type OA
+-----      Generation 2, blood type BO
+-----   Generation 1, blood type OB
+ ------    Generation 2, blood type AO
+ -------    Generation 2, blood type BO
